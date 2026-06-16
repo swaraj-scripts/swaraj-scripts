@@ -1,59 +1,72 @@
+<div align="center">
+
 ```
-╔─────────────────────────────────────────────────────────────────╗
-│  swrjks — zsh                                              ● ● ● │
-╚─────────────────────────────────────────────────────────────────╝
-
-visitor@github:~$ whoami --verbose
-
-  name      →  Swaraj K S
-  alias     →  swrjks
-  role      →  CS Undergrad · Builder · ML + Security
-  location  →  Bengaluru, India
-  college   →  CMRIT · 3rd Year · 2023–2027
-  status    →  open to work  // SWE · ML · Internships · FTE
-
-
-visitor@github:~$ cat achievements.log
-
-  ✓  7 hackathon wins  |  ₹1,35,000+ in prizes
-  ✓  ML Intern @ HAL (MCSRDC)  |  90k+ datapoints · Airflow ETL
-  ✓  McKinsey Forward Program  |  selected
-  ✓  Student Achiever Award
-
-
-visitor@github:~$ ls -la projects/
-
-  drwxr-xr-x  swaraj  staff  —  5 projects
-
-  NumerML       ·  ML solver · 600+ users in prod · Redis · Razorpay
-  SecYour       ·  Banking auth SDK · TFLite · Autoencoder + IForest
-  SentinelMind  ·  SOC platform · LangChain · FAISS · Llama 3.1
-  PhishFree     ·  Phishing detector · CNN + GNN + RoBERTa
-  FRTS          ·  3D terrain mapping · A* + Dijkstra · GDAL
-
-
-visitor@github:~$ skills --list
-
-  languages  →  Python  C++  Dart  JavaScript
-  ml/ai      →  PyTorch  LangChain  TFLite  FAISS  HuggingFace
-  infra      →  Redis  Airflow  FastAPI  Docker
-  mobile     →  Flutter
-
-
-visitor@github:~$ cat currently.sh
-
-  # active right now
-  building   =  "Devpath.ai"  &&  "LLM-Switch"
-  grinding   =  "LeetCode"  # 2-3 daily
-  targeting  =  ["FAANG", "product cos", "YC startups"]
-
-
-visitor@github:~$ contact --reach-out
-
-  linkedin  →  linkedin.com/in/swrjks
-  email     →  swrjks@gmail.com
-  leetcode  →  leetcode.com/swrjks
-
-
-visitor@github:~$ █
+  ███████╗██╗    ██╗ █████╗ ██████╗  █████╗      ██╗
+  ██╔════╝██║    ██║██╔══██╗██╔══██╗██╔══██╗     ██║
+  ███████╗██║ █╗ ██║███████║██████╔╝███████║     ██║
+  ╚════██║██║███╗██║██╔══██║██╔══██╗██╔══██║██   ██║
+  ███████║╚███╔███╔╝██║  ██║██║  ██║██║  ██║╚█████╔╝
+  ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
+
+**CS Undergrad @ CMRIT Bengaluru · Builder · ML + Security nerd**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swrjks)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/swrjks)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swrjks@gmail.com)
+
+</div>
+
+---
+
+### what i'm about
+
+I build things that work in the real world — not just demos.  
+Currently a 3rd year CSE student obsessed with ML systems, applied security, and shipping fast.
+
+- 🏆 **7 hackathon wins** · ₹1.35L+ in prizes
+- 🛩️ **ML Intern @ HAL (MCSRDC)** — built trajectory visualizers & ETL pipelines on 90k+ data points  
+- 🎯 **McKinsey Forward** alumnus · Student Achiever Award
+
+---
+
+### things i've shipped
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**NumerML**](https://github.com/swrjks/numerml) | ML solver in production — 600+ users, Razorpay integrated | Python · Redis · FastAPI |
+| [**SecYour**](https://github.com/swrjks/secyour) | Banking auth SDK — Autoencoder + Isolation Forest fraud detection | Flutter · TFLite · ML |
+| [**SentinelMind**](https://github.com/swrjks/sentinelmind) | SOC automation platform with LLM-powered threat triage | LangChain · FAISS · Llama 3.1 |
+| [**PhishFree**](https://github.com/swrjks/phishfree) | Phishing detection — CNN + GNN + RoBERTa ensemble | PyTorch · HuggingFace |
+| [**FRTS**](https://github.com/swrjks/frts) | 3D terrain mapping with pathfinding | A* · Dijkstra · GDAL |
+
+---
+
+### currently
+
+```
+→ building  Devpath.ai + LLM-Switch
+→ grinding  LeetCode daily (DSA ramp-up)
+→ targeting FAANG, product companies, YC startups
+→ open to   SWE / ML internship & FTE roles
+```
+
+---
+
+### stack
+
+```python
+languages  = ["Python", "Dart", "C++", "JavaScript"]
+ml         = ["PyTorch", "TFLite", "LangChain", "FAISS", "HuggingFace"]
+infra      = ["Redis", "Airflow", "FastAPI", "Docker"]
+mobile     = ["Flutter"]
+tools      = ["Git", "Linux", "GDAL"]
+```
+
+---
+
+<div align="center">
+
+*open to interesting problems. reach out.*
+
+</div>
