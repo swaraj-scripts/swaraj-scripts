@@ -1,133 +1,143 @@
 <div align="center">
 
-# Hey, I'm Swaraj Kumar 👋
+```text
+   ______      ___              __
+  / ____/___  /   |  ____  ____/ /
+ / /   / __ \/ /| | / __ \/ __  /
+/ /___/ /_/ / ___ |/ /_/ / /_/ /
+\____/\____/_/  |_/ .___/\__,_/
+                 /_/
+```
 
-### Building AI, ML & Full-Stack Products
+### Building AI Products That Save Time
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+Developer;Hackathon+Winner;Building+Products+that+Solve+Real+Problems" />
+*ML Engineer • Full-Stack Developer • Hackathon Winner*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ~/whoami
 
-```python
-class SwarajKumar:
+```yaml
+name: Swaraj Kumar
+education: Final Year CSE Student
+location: Bengaluru, India
 
-    def __init__(self):
-        self.role = "Final Year Engineering Student"
-        self.interests = [
-            "Machine Learning",
-            "Computer Vision",
-            "Generative AI",
-            "Full Stack Development",
-            "Product Building"
-        ]
+interests:
+  - Machine Learning
+  - Generative AI
+  - Computer Vision
+  - Product Engineering
+  - Automation
 
-        self.currently_building = [
-            "AI-powered Assistive Touch",
-            "CoApply",
-            "Real-time Language Translation"
-        ]
-
-        self.fun_fact = "I enjoy turning crazy ideas into working products."
+currently:
+  - Building CoApply
+  - Building AI Assistive Touch
+  - Exploring Agentic AI Systems
 ```
 
 ---
 
-## 🛠 Tech Stack
+## ~/highlights
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-
----
-
-## 🏆 Highlights
-
-🥇 1st Place Category Award — Real-Time ECG Arrhythmia Detection
-
+```text
+🏆 Winner — Real-Time ECG Arrhythmia Detection Hackathon
 🚀 Anveshan Fellowship — Implementation Round
-
-📍 ML Intern @ HAL
-
-💡 Building products at the intersection of AI and automation
-
----
-
-## 📌 Featured Projects
-
-### 🤖 CoApply
-AI-powered job application assistant that scans forms and auto-fills applications to save time.
-
-### 🎙 AI Call Translation
-Real-time phone call translation with voice preservation and low latency.
-
-### 🎓 Smart Attendance System
-YOLO-based attendance tracking with facial recognition and real-time processing.
-
-### ❤️ ECG Arrhythmia Detection
-Deep learning model for early detection of cardiac abnormalities.
+✈️ ML Intern @ HAL
+💡 Built products used by real users
+🧠 Strong aptitude, reasoning & problem-solving background
+```
 
 ---
 
-## 📊 GitHub Analytics
+## ~/projects
+
+| Project                      | Description                                                           |
+| ---------------------------- | --------------------------------------------------------------------- |
+| **CoApply**                  | AI-powered assistant that scans job forms and auto-fills applications |
+| **NumerML**                  | ML-powered academic problem solving platform                          |
+| **AI Call Translation**      | Real-time multilingual phone call translation with voice preservation |
+| **Smart Attendance System**  | YOLO + Face Recognition attendance automation                         |
+| **ECG Arrhythmia Detection** | Deep learning system for early cardiac abnormality detection          |
+
+---
+
+## ~/tech-stack
+
+```python
+languages = [
+    "Python",
+    "Java",
+    "JavaScript",
+    "TypeScript"
+]
+
+ai_ml = [
+    "PyTorch",
+    "TensorFlow",
+    "OpenCV",
+    "YOLO",
+    "Scikit-Learn"
+]
+
+backend = [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Redis"
+]
+
+frontend = [
+    "React",
+    "TailwindCSS"
+]
+
+tools = [
+    "Git",
+    "Linux",
+    "Docker"
+]
+```
+
+---
+
+## ~/currently-building
+
+```bash
+> coapply
+AI-assisted job application automation
+
+> ai-touch
+Floating AI assistant for Android
+
+> call-translate
+Low-latency voice-preserving call translation
+```
+
+---
+
+## ~/github-stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark-blue" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## ~/connect
 
-- Build and launch AI products
-- Crack a top internship/full-time role
-- Contribute to open source
-- Reach 500+ LeetCode problems
-- Publish impactful ML projects
-
----
-
-## 🤝 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[Portfolio](YOUR_PORTFOLIO_URL) •
-[Email](mailto:YOUR_EMAIL)
+```text
+LinkedIn  → linkedin.com/in/yourprofile
+Portfolio → yourportfolio.com
+Email     → your@email.com
+```
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Iterate. Repeat."
+### Build → Test → Ship → Repeat
 
 </div>
